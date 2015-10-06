@@ -1,0 +1,23 @@
+{
+  "name": "Vagrant-Redis-RabbitMq-MongoDB-NodeJs-Cluster",
+  "version": "1.0.0",
+  "description": "This project contains a fully functional cluster. The cluster contains a Redis Server, a Rabbit MQ Server, MongoDB and two NodeJS Servers.",
+  "main": "shipitfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://psenger@github.com/psenger/Vagrant-Redis-RabbitMq-MongoDB-NodeJs-Cluster.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/psenger/Vagrant-Redis-RabbitMq-MongoDB-NodeJs-Cluster/issues"
+  },
+  "homepage": "https://github.com/psenger/Vagrant-Redis-RabbitMq-MongoDB-NodeJs-Cluster",
+  "dependencies": {
+    "shipit-deploy": "^2.0.0",
+    "shipit-cli": "^1.3.0"
+  }
+}

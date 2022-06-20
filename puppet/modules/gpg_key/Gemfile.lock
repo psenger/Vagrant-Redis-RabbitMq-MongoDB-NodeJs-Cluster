@@ -54,7 +54,7 @@ GEM
       archive-tar-minitar
       excon (>= 0.28)
       json
-    excon (0.34.0)
+    excon (0.92.3)
     extlib (0.9.16)
     facter (2.0.1)
       CFPropertyList (~> 2.2.6)
